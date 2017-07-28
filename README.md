@@ -28,6 +28,9 @@ Total Hosts Responding: 1
 ############ This Will take some time....... Go get a life in mean time ############
 Conducting Full scan of Host: 192.168.101.10
 Scan results stored: host_192.168.101.10_nmap.txt
+
+
+
 root@kali:~/scripts/python$ cat host_192.168.101.10_nmap.txt
 
 Starting Nmap 7.50 ( https://nmap.org ) at 2017-07-28 05:02 BST
